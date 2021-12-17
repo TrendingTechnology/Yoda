@@ -33,7 +33,7 @@ Contests
                       └── AtCoder Beginner Contest 230  
                           └── A.cpp  
    ```  
-* Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases/tag/Yoda). 
+* Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases). 
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy and pleasing interface to use interface to get you started in minutes
 * Extensive traceability for your submissions for Each OJ , Contest Name , Problem Name with the problem file stored with proper language extension.
