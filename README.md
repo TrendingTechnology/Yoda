@@ -33,8 +33,7 @@ Contests
                       └── AtCoder Beginner Contest 230  
                           └── A.cpp  
    ```     
-   ![File Structure](https://www.linkpicture.com/q/photo_2021-12-18_02-11-07.jpg)
-   ![File Structure](https://www.linkpicture.com/q/LPic61bcf584b3371734315218.png)
+   
 * Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases). 
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy and pleasing interface to use interface to get you started in minutes
@@ -141,6 +140,10 @@ You'll be prompted for providing your Codeforces handle name
 ![Atcoder Heatmap](https://cdn.discordapp.com/attachments/918887646594474036/921501362372640818/yoda_ag.png)   
 Yoda will then output on a new window your Submission HeatMap !!.  
 
+## Final Directory Look
+The Directory then is created after downloading your solution for each OJ and is divided by different handles which is further divided to Contest Dir. then your  Problem Solution finally.     
+![File Structure](https://www.linkpicture.com/q/photo_2021-12-18_02-11-07.jpg)   
+![File Structure](https://www.linkpicture.com/q/LPic61bcf584b3371734315218.png)   
 ## License
 
 [MIT License](https://github.com/NikharManchanda/Yoda/blob/main/LICENSE)
