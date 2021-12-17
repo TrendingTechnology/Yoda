@@ -93,13 +93,13 @@ nm@pop-os:~$ yoda
 To use it for a particular OJ run
 ```bash 
 # yoda <platform> 
-$ yoda codeforces  # example
+$ yoda codeforces 
 ```
 ```bash
-$ yoda atcoder  # example
+$ yoda atcoder 
 ```
 ```bash
-$ yoda codechef  # example
+$ yoda codechef 
 ```
 ![yoda cmd]()
 Now comes the main part :  
