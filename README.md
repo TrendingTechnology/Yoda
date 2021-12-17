@@ -6,30 +6,30 @@ automating the entire process of collecting and organizing your code submissions
 
 ## Highlights
 * Downloads your AC solutions from CodeForces,CodeChef and Atcoder and creates a Directory within your Home Directory with the following File Structure:
-Contests
-   ├── Codeforces
-        |──<Handle-Name>
-                ├── <Contest-ID>
-                        |── <problem-index>
-        |──<tourist>
-                └── 592
-                    └── A.cpp
-    ├── CodeChef
-        |──<Handle-Name>
-                ├── <Contest-Name>
-                        |── <problem-name>
-                            └──<problem>
-        |──<tourist>
-                └── AUG20B
-                    └──CHEFWED
-                            └──CHEFWED.cpp 
-    ├── AtCoder
-        |──<Handle-Name>
-                ├── <Contest-Name>
-                        |── <problem-level>
-        |──<tourist>
-                └── AtCoder Beginner Contest 230
-                    └── A.cpp
+Contests  
+   ├── Codeforces  
+        |──<Handle-Name>  
+                ├── <Contest-ID>  
+                        |── <problem-index>  
+        |──<tourist>  
+                └── 592  
+                    └── A.cpp  
+    ├── CodeChef   
+        |──<Handle-Name>  
+                ├── <Contest-Name>  
+                        |── <problem-name>  
+                            └──<problem>  
+        |──<tourist>  
+                └── AUG20B  
+                    └──CHEFWED  
+                            └──CHEFWED.cpp   
+    ├── AtCoder  
+        |──<Handle-Name>  
+                ├── <Contest-Name>  
+                        |── <problem-level>  
+        |──<tourist>  
+                └── AtCoder Beginner Contest 230  
+                    └── A.cpp  
 * Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases/tag/Yoda). 
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy and pleasing interface to use interface to get you started in minutes
@@ -41,7 +41,7 @@ Contests
 
 Harwest currently has extensive support for the following platforms:
 * [Codeforces](https://codeforces.com/)
-* [AtCoder](https://atcoder.jp/)_
+* [AtCoder](https://atcoder.jp/)
 * [CodeChef](https://www.codechef.com/)
 
 While integration with various other OJs are still in the kitchen , your Contributions are always welcomed 😄.
@@ -124,4 +124,4 @@ Yoda will then output on a new window your Submission HeatMap !!.
 
 ## License
 
-MIT License
+[MIT License](https://github.com/NikharManchanda/Yoda/blob/main/LICENSE)
