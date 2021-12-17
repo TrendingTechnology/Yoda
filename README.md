@@ -33,7 +33,7 @@ Contests
                       └── AtCoder Beginner Contest 230  
                           └── A.cpp  
    ```     
-   ![File Structure](https://www.linkpicture.com/q/Screenshot-from-2021-12-18-01-46-46.png)
+   ![File Structure](https://www.linkpicture.com/q/photo_2021-12-18_02-11-07.jpg)
    ![File Structure](https://www.linkpicture.com/q/LPic61bcf584b3371734315218.png)
 * Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases). 
 * Fully automated collection of all yours submissions with minimal effort setup
@@ -90,6 +90,7 @@ nm@pop-os:~$ yoda
     
    🥳 You rock! We're good to go now 🥳
 ```
+![yoda](https://www.linkpicture.com/q/LPic61bcf630b9c751790534198.png)
 To use it for a particular OJ run
 ```bash 
 # yoda <platform> 
