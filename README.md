@@ -6,7 +6,6 @@ automating the entire process of collecting and organizing your code submissions
 
 ## Highlights
 * Downloads your AC solutions from CodeForces,CodeChef and Atcoder and creates a Directory within your Home Directory with the following File Structure:
-Contests  
    ```bash
    ├── Contests 
           └─Codeforces  
