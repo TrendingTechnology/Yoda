@@ -54,8 +54,7 @@ While integration with various other OJs are still in the kitchen , your Contrib
 
 1.) You will require `Python 3.5+` along with `pip3` in order to be able to install and use Yoda.
 Refer to the documentation for installing `pip` on [windows](https://phoenixnap.com/kb/install-pip-windows), 
-[ubuntu/linux](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu) or
-[macOS](https://docs.python-guide.org/starting/install3/osx/)
+[ubuntu/linux](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
 
 2.) Install this Github Repository and then enter into that directory in the terminal/command prompt then paste the follwing command:
 ```bash
