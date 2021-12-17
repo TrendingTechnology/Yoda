@@ -95,6 +95,12 @@ To use it for a particular OJ run
 $ yoda <platform> 
 $ yoda codeforces  # example
 ```
+```bash
+$ yoda atcoder  # example
+```
+```bash
+$ yoda codechef  # example
+```
 ![yoda cmd]()
 Now comes the main part :  
 1.)To harvest your submissions from the Codeforces platform.  
