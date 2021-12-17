@@ -102,7 +102,7 @@ $ yoda atcoder
 ```bash
 $ yoda codechef 
 ```
-![yoda cmd](https://www.linkpicture.com/q/LPic61bcf6839123d1303457515.png)
+![yoda cmd](https://www.linkpicture.com/q/LPic61bcf6839123d1303457515.png)     
 Now comes the main part :  
 1.)To harvest your submissions from the Codeforces platform.  
 Type the following command:  
@@ -116,8 +116,9 @@ You'll be prompted for providing your Codeforces handle name
 > Enter your prestigious Codeforces Handle : sus
 ```
 
-![Codeforces Download](https://www.linkpicture.com/q/yoda_cfd.jpg)
-
+![Codeforces Download](https://www.linkpicture.com/q/yoda_cfd.jpg)    
+![Atcoder Download](https://cdn.discordapp.com/attachments/918887646594474036/921501364247461918/yoda_adf.jpg)    
+![CodeChef Download](https://cdn.discordapp.com/attachments/918887646594474036/921501362607497226/yoda_ccd.png)   
 Yoda will then start scraping all your AC submissions, starting from most recent submission till your very first submission.  
 
 2.) Get your Submisssion HeatMap:  
@@ -135,8 +136,9 @@ You'll be prompted for providing your Codeforces handle name
 > Enter your prestigious Codeforces Handle : vineet4571
 ```
 
-![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)
-
+![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)  
+![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)  
+![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)   
 Yoda will then output on a new window your Submission HeatMap !!.  
 
 ## License
