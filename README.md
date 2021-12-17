@@ -91,8 +91,8 @@ nm@pop-os:~$ yoda
    🥳 You rock! We're good to go now 🥳
 ```
 To use it for a particular OJ run
-```bash
-$ yoda <platform> 
+```bash 
+# yoda <platform> 
 $ yoda codeforces  # example
 ```
 ```bash
