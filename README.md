@@ -34,7 +34,7 @@ Contests
                           └── A.cpp  
    ```     
    ![File Structure](https://www.linkpicture.com/q/Screenshot-from-2021-12-18-01-46-46.png)
-   ![File Structure](https://www.linkpicture.com/q/Screenshot-from-2021-12-18-01-46-54.png)
+   ![File Structure](https://www.linkpicture.com/q/LPic61bcf584b3371734315218.png)
 * Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases). 
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy and pleasing interface to use interface to get you started in minutes
