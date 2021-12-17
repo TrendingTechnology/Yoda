@@ -7,35 +7,38 @@ automating the entire process of collecting and organizing your code submissions
 ## Highlights
 * Downloads your AC solutions from CodeForces,CodeChef and Atcoder and creates a Directory within your Home Directory with the following File Structure:
 Contests  
-   ├── Codeforces  
-        |──<Handle-Name>  
-                ├── <Contest-ID>  
-                        |── <problem-index>  
-        |──<tourist>  
-                └── 592  
-                    └── A.cpp  
-    ├── CodeChef   
-        |──<Handle-Name>  
-                ├── <Contest-Name>  
-                        |── <problem-name>  
-                            └──<problem>  
-        |──<tourist>  
-                └── AUG20B  
-                    └──CHEFWED  
-                            └──CHEFWED.cpp   
-    ├── AtCoder  
-        |──<Handle-Name>  
-                ├── <Contest-Name>  
-                        |── <problem-level>  
-        |──<tourist>  
-                └── AtCoder Beginner Contest 230  
-                    └── A.cpp  
+   ```bash
+   ├── Contests 
+          └─Codeforces  
+              └──<Handle-Name>  
+                      └──<Contest-ID>  
+                              └── <problem-index>  
+              └──<tourist>  
+                      └── 592  
+                          └── A.cpp  
+          └──CodeChef   
+              └──<Handle-Name>  
+                      └── <Contest-Name>  
+                              └── <problem-name>  
+                                  └──<problem>  
+              └──<tourist>  
+                      └── AUG20B  
+                          └──CHEFWED  
+                                  └──CHEFWED.cpp   
+          └──AtCoder  
+              └──<Handle-Name>  
+                      └── <Contest-Name>  
+                              └── <problem-level>  
+              └──<tourist>  
+                      └── AtCoder Beginner Contest 230  
+                          └── A.cpp  
+   ```  
 * Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases/tag/Yoda). 
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy and pleasing interface to use interface to get you started in minutes
 * Extensive traceability for your submissions for Each OJ , Contest Name , Problem Name with the problem file stored with proper language extension.
 * Provides Clear and Beautiful Submission Heatmap of your Accepted Solutions for each Online Judge
- for all three OJ's even Atcoder , CodeChef doesn't provide it 😉.
+ for all three OJ's (FunFact: Atcoder and Codechef doesn't provide you the Submission Heatmap themselves but Yoda does it all 😉).
 
 ## Platforms
 
@@ -67,7 +70,7 @@ $ yoda
 ```
 You'd be greeted with something like this:
 ```bash
-mn@pop-os:~$ yoda
+nm@pop-os:~$ yoda
 
 ...:██╗░░░██╗░█████╗░██████╗░░█████╗░:...
 ...:╚██╗░██╔╝██╔══██╗██╔══██╗██╔══██╗:...
@@ -76,13 +79,15 @@ mn@pop-os:~$ yoda
 ...:░░░██║░░░╚█████╔╝██████╔╝██║░░██║:...
 ...:░░░╚═╝░░░░╚════╝░╚═════╝░╚═╝░░╚═╝:...
     
-    Hey there! 👋 Looks like you're using Yoda for the first time. Let's get you started 🚀
-    There are three differnet OJ's from which you can get your User Statistics:
-    Atcoder
-    CodeForces
-    CodeChef
-    For each one of the OJ's you can Download all your AC solutions ✅ as well as Submission Heatmap for each of the Website!!
-    🥳 You rock! We're good to go now 🥳
+   Hey there! 👋 Looks like you're using Yoda for the first time. Let's get you started 🚀
+   There are three differnet OJ's from which you can get your User Statistics:
+   Atcoder
+   CodeForces
+   CodeChef
+
+   For each one of the OJ's you can Download all your AC solutions ✅ as well as get your Submission Heatmap!! 
+    
+   🥳 You rock! We're good to go now 🥳
 ```
 To use it for a particular OJ run
 ```bash
@@ -90,37 +95,37 @@ $ yoda <platform>
 $ yoda codeforces  # example
 ```
 
-Now comes the main part :
-1.)To harvest your submissions from the Codeforces platform.
-Type the following command:
+Now comes the main part :  
+1.)To harvest your submissions from the Codeforces platform.  
+Type the following command:  
 ```bash
 $ yoda <platform> <command>
 $ yoda codeforces download  # example
 ```
-
-You'll be prompted for providing your Codeforces handle name
+  
+You'll be prompted for providing your Codeforces handle name   
 ```bash
 > Enter your prestigious Codeforces Handle : tourist
 ```
 
-Yoda will then start scraping all your AC submissions, starting from most recent submission till your very first submission.
+Yoda will then start scraping all your AC submissions, starting from most recent submission till your very first submission.  
 
-2.) Get your Submisssion HeatMap:
+2.) Get your Submisssion HeatMap:  
 
-Type the following command:
+Type the following command:  
 
 ```bash
 $ yoda <platform> <command>
 $ yoda codeforces graph  # example
 ```
 
-You'll be prompted for providing your Codeforces handle name
+You'll be prompted for providing your Codeforces handle name  
 
 ```bash
 > Enter your prestigious Codeforces Handle : tourist
 ```
 
-Yoda will then output on a new window your Submission HeatMap !!.
+Yoda will then output on a new window your Submission HeatMap !!.  
 
 ## License
 
