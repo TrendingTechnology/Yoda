@@ -136,9 +136,9 @@ You'll be prompted for providing your Codeforces handle name
 > Enter your prestigious Codeforces Handle : vineet4571
 ```
 
+![CodeChef Heatmap](https://cdn.discordapp.com/attachments/918887646594474036/921501362829803560/yoda_ccg.jpg)  
 ![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)  
-![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)  
-![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)   
+![Atcoder Heatmap](https://cdn.discordapp.com/attachments/918887646594474036/921501362372640818/yoda_ag.png)   
 Yoda will then output on a new window your Submission HeatMap !!.  
 
 ## License
