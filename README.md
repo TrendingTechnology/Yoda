@@ -106,8 +106,10 @@ $ yoda codeforces download  # example
   
 You'll be prompted for providing your Codeforces handle name   
 ```bash
-> Enter your prestigious Codeforces Handle : tourist
+> Enter your prestigious Codeforces Handle : sus
 ```
+
+![Codeforces Download](https://www.linkpicture.com/q/yoda_cfd.jpg)
 
 Yoda will then start scraping all your AC submissions, starting from most recent submission till your very first submission.  
 
@@ -123,8 +125,10 @@ $ yoda codeforces graph  # example
 You'll be prompted for providing your Codeforces handle name  
 
 ```bash
-> Enter your prestigious Codeforces Handle : tourist
+> Enter your prestigious Codeforces Handle : vineet4571
 ```
+
+![Codeforces Heatmap](https://www.linkpicture.com/q/yoda_cfg.png)
 
 Yoda will then output on a new window your Submission HeatMap !!.  
 
