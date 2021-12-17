@@ -32,7 +32,9 @@ Contests
               └──<tourist>  
                       └── AtCoder Beginner Contest 230  
                           └── A.cpp  
-   ```  
+   ```     
+   ![File Structure](https://www.linkpicture.com/q/Screenshot-from-2021-12-18-01-46-46.png)
+   ![File Structure](https://www.linkpicture.com/q/Screenshot-from-2021-12-18-01-46-54.png)
 * Supports both Linux and Windows , see [Releases](https://github.com/NikharManchanda/Yoda/releases). 
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy and pleasing interface to use interface to get you started in minutes
@@ -93,7 +95,7 @@ To use it for a particular OJ run
 $ yoda <platform> 
 $ yoda codeforces  # example
 ```
-
+![yoda cmd]()
 Now comes the main part :  
 1.)To harvest your submissions from the Codeforces platform.  
 Type the following command:  
