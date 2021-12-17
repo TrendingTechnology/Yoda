@@ -107,13 +107,13 @@ Now comes the main part :
 1.)To harvest your submissions from the Codeforces platform.  
 Type the following command:  
 ```bash
-$ yoda <platform> <command>
+# yoda <platform> <command>
 $ yoda codeforces download  # example
 ```
   
 You'll be prompted for providing your Codeforces handle name   
 ```bash
-> Enter your prestigious Codeforces Handle : sus
+> Enter your prestigious Codeforces Handle : sus #example
 ```
 
 ![Codeforces Download](https://www.linkpicture.com/q/yoda_cfd.jpg)    
@@ -126,14 +126,14 @@ Yoda will then start scraping all your AC submissions, starting from most recent
 Type the following command:  
 
 ```bash
-$ yoda <platform> <command>
+# yoda <platform> <command>
 $ yoda codeforces graph  # example
 ```
 
 You'll be prompted for providing your Codeforces handle name  
 
 ```bash
-> Enter your prestigious Codeforces Handle : vineet4571
+> Enter your prestigious Codeforces Handle : vineet4571 #example
 ```
 
 ![CodeChef Heatmap](https://cdn.discordapp.com/attachments/918887646594474036/921501362829803560/yoda_ccg.jpg)  
